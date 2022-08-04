@@ -38,13 +38,14 @@ Vacation planners can search travel destination based on their weather condition
 
 ## Vacation Itinerary
 Google Directions API was used to create a travel itinerary that shows route between four cities chosen by the trip planner. A marker layer map with pop-up marker for each city on the itinerary.
-###Travel Map with Markers
+
+### Travel Map with Markers
 ![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/106283411/182935916-90918ca8-9c1c-4731-9fb6-137d654dad09.png)
 
 
 
 
-#Travel Map Route by Driving
+### Travel Map Route by Driving
 
 ![WeatherPy_travel_map](https://user-images.githubusercontent.com/106283411/182936279-38b7bcf1-a9f0-4f96-92b9-9363d006b16e.png)
 
