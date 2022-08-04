@@ -10,7 +10,7 @@ Traveling is one of the most enjoyable experiences to everyone however weather c
 
 •	Pythoon Dependencies: SciPy, Python Requests, Pandas, JSON Traversals Matplotlib, CitiPy
 
-•	CSV Files: [WeatherPy_vacation.csv](https://github.com/rpamintuan671/World_Weather_Analysis/blob/main/Vacation Search/WeatherPy_vacation.csv), [Weather_Databases.csv](https://github.com/rpamintuan671/World_Weather_Analysis/blob/main/Weather_Database/WeatherPy_Database.csv)
+•	CSV Files: [WeatherPy_vacation.csv](https://github.com/rpamintuan671/World_Weather_Analysis/tree/main/Vacation%20Search), [Weather_Databases.csv](https://github.com/rpamintuan671/World_Weather_Analysis/blob/main/Weather_Database/WeatherPy_Database.csv)
 
 ## Weather Database
 A set of 2,000 random latitudes and longtitudes were generated and nearest city were retrieved and performed an API call with the OpenWeatherMap.
