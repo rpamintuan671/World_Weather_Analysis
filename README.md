@@ -6,11 +6,11 @@ Traveling is one of the most enjoyable experiences to everyone however weather c
 
 ## Resources to Complete Analysis
 
-   >•	Jupyter Notebook: [Weather_Database.ipynb](https://github.com/rpamintuan671/World_Weather_Analysis/blob/main/Weather_Database/Weather_Database.ipynb), [Vacation_Search.ipynb](https://github.com/rpamintuan671/World_Weather_Analysis/blob/main/Vacation%20Search/Vacation_Search.ipynb),  [Vacation_Itenary.ipynb](https://github.com/rpamintuan671/World_Weather_Analysis/blob/main/Vacation_Itinerary/Vacation_Itinerary.ipynb)
+>•	Jupyter Notebook: [Weather_Database.ipynb](https://github.com/rpamintuan671/World_Weather_Analysis/blob/main/Weather_Database/Weather_Database.ipynb), [Vacation_Search.ipynb](https://github.com/rpamintuan671/World_Weather_Analysis/blob/main/Vacation%20Search/Vacation_Search.ipynb),  [Vacation_Itenary.ipynb](https://github.com/rpamintuan671/World_Weather_Analysis/blob/main/Vacation_Itinerary/Vacation_Itinerary.ipynb)
 
-   >•	Pythoon Dependencies: SciPy, Python Requests, Pandas, JSON Traversals Matplotlib, CitiPy
+>•	Pythoon Dependencies: SciPy, Python Requests, Pandas, JSON Traversals Matplotlib, CitiPy
 
-   >•	CSV Files: [WeatherPy_vacation.csv](https://github.com/rpamintuan671/World_Weather_Analysis/tree/main/Vacation%20Search), [Weather_Databases.csv](https://github.com/rpamintuan671/World_Weather_Analysis/blob/main/Weather_Database/WeatherPy_Database.csv)
+>•	CSV Files: [WeatherPy_vacation.csv](https://github.com/rpamintuan671/World_Weather_Analysis/tree/main/Vacation%20Search), [Weather_Databases.csv](https://github.com/rpamintuan671/World_Weather_Analysis/blob/main/Weather_Database/WeatherPy_Database.csv)
 
 ## Weather Database
 A set of 2,000 random latitudes and longtitudes were generated and nearest city were retrieved and performed an API call with the OpenWeatherMap.
@@ -18,15 +18,15 @@ A set of 2,000 random latitudes and longtitudes were generated and nearest city 
 
 
 ### The following information were retrieved from the API call:
-  >•	Latitude and longitude
+>•	Latitude and longitude
 
-  >•	Maximum temperature
+>•	Maximum temperature
 
-  >•	Percent humidity
+>•	Percent humidity
 
-  >•	Percent cloudiness Wind speed
+>•	Percent cloudiness Wind speed
 
-  >•	Weather description(form example, clouds, fog, light rain, clear sky)
+>•	Weather description(form example, clouds, fog, light rain, clear sky)
 
 ## Vacation Search
 Vacation planners can search travel destination based on their weather condition preferences and search for nearby hotel. The map below showcases example travel destinations using pop-up markers on a marker layer-map.
