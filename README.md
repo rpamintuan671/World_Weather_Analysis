@@ -19,9 +19,13 @@ A set of 2,000 random latitudes and longtitudes were generated and nearest city 
 
 ### The following information were retrieved from the API call:
 •	Latitude and longitude
+
 •	Maximum temperature
+
 •	Percent humidity
+
 •	Percent cloudiness Wind speed
+
 •	Weather description(form example, clouds, fog, light rain, clear sky)
 
 ## Vacation Search
