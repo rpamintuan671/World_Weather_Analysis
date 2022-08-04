@@ -1,7 +1,7 @@
 # Module 6 | WeatherPy
 
 ## Overview
-Traveling is one of the most enjoyable experiences to everyone however weather conditions can influence one’s travel behavior and impact our experience as trip planner. The purpose of this project is to gather weather data worldwide, analyze and visualize weather data  worldwide across the globe. This project will provide as a tool for travel planners or individuals which will allow them to determine their destination based on weather conditions.
+Traveling is one of the most enjoyable experiences to everyone however weather conditions can influence trip planners travel behavior and impact their overall experience throughout the trip. The purpose of this project is to gather weather data worldwide, analyze and visualize weather data  worldwide across the globe. This project will provide as a tool for travel planners or individuals which will allow them to determine their destination based on their choice of weather conditions.
 
 
 ## Resources to Complete Analysis
