@@ -6,7 +6,7 @@ Traveling is one of the most enjoyable experiences to everyone however weather c
 
 ## Resources to Complete Analysis
 
-•	Jupyter Notebook: [Weather_Database.ipynb](https://github.com/rpamintuan671/World_Weather_Analysis/blob/main/Weather_Database/Weather_Database.ipynb), [Vacation_Search.ipynb](https://github.com/rpamintuan671/World_Weather_Analysis/blob/main/Vacation Search/Vacation_Search.ipynb),  [Vacation_Itenary.ipynb](https://github.com/rpamintuan671/World_Weather_Analysis/blob/main/Vacation_Itinerary/Vacation_Itinerary.ipynb)
+•	Jupyter Notebook: [Weather_Database.ipynb](https://github.com/rpamintuan671/World_Weather_Analysis/blob/main/Weather_Database/Weather_Database.ipynb), [Vacation_Search.ipynb](https://github.com/rpamintuan671/World_Weather_Analysis/blob/main/Vacation%20Search/Vacation_Search.ipynb),  [Vacation_Itenary.ipynb](https://github.com/rpamintuan671/World_Weather_Analysis/blob/main/Vacation_Itinerary/Vacation_Itinerary.ipynb)
 
 •	Pythoon Dependencies: SciPy, Python Requests, Pandas, JSON Traversals Matplotlib, CitiPy
 
